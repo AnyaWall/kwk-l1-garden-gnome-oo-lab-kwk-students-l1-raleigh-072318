@@ -57,4 +57,5 @@ class GardenGnome
  
  def gnome1
    @gnome1
-   
+end
+
