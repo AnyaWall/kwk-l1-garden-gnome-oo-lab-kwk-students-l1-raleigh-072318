@@ -54,4 +54,6 @@ class GardenGnome
  end
  
  gnome = GardenGnome.new("Carl the Crappy", "3548")
+ 
+ 
   
