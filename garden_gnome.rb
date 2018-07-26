@@ -55,6 +55,6 @@ class GardenGnome
  
  gnome = GardenGnome.new("Carl the Crappy", "3548")
  
- GardenGnome = gnome1
- GardenGnome = 
-  
+ def gnome1
+   @gnome1
+   
